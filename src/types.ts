@@ -1,4 +1,4 @@
-import { IDb_Record } from "./db/db";
+import { IDb_Record } from "./db";
 
 export interface CityData {
 	uuid: string;
